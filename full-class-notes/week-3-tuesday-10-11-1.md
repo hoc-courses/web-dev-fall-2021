@@ -33,6 +33,8 @@ When branching is necessary, there are additional git commands that are necessar
 
 [Git Branching](https://codewithmosh.com/courses/1120640/lectures/24394230)
 
+[Collaboration Workflow](https://codewithmosh.com/courses/1120640/lectures/24394587)
+
 ### Practice Project
 
 None of this will be very concrete without working with a real repository and walking through each of these steps. We're going to create a practice repository where we can learn:
