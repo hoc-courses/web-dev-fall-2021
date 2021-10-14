@@ -49,9 +49,29 @@ Click on the following assignment link: [https://classroom.github.com/a/Ifm6Vn-C
 
 ### Collaborative News site
 
-Click on the following assignment link: [https://classroom.github.com/a/6hqrxwlx](https://classroom.github.com/a/6hqrxwlx)
+We're going to create a new site to use for the collaboration, using the typical way they are created, not as we have been through GitHub Classroom.
+
+Here's the link to the repo to use.
+
+{% embed url="https://github.com/hoc-labs/group-newssite-html-css." %}
+
+### Step 1 - Setup the Repo for Collaboration
+
+The first step is for one person to go to this repo and click the **Use this template  **button to copy the repo to their own account so that it can be setup with collaborators for this exercise.
+
+Next, we want to invite everyone to be collaborators on the repo. 
+
+Next, all the collaborators should go to the repo and clone it to their local computer.
+
+Now, everyone has a copy of the repo on their local computer and the repo has some starter code in the main branch.
+
+### Step 2 - Review the Site Spec and Create Issues
+
+### Step 3 - Start Working on Issues Assigned to You
 
 
+
+### Resources 
 
 {% content-ref url="../appendix/git-github/github-collaboration.md" %}
 [github-collaboration.md](../appendix/git-github/github-collaboration.md)
