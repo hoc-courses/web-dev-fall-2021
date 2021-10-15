@@ -1,6 +1,8 @@
 # Table of contents
 
-* [Overview](README.md)
+* [Sleep Debt Calculator](README.md)
+* [Kelvin Weather](<README (1).md>)
+* [Whale Talk](whale-talk.md)
 * [Past Assignments](past-assignments-1.md)
 
 ## Full Class Notes
