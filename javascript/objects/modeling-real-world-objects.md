@@ -114,7 +114,7 @@ Hotels will commonly be asked if any rooms are free. To answer this question, a 
 
 The value of the `currentSpeed `property needs to go up and down as the driver accelerates and brakes. The code to increase or decrease the value of the `currentSpeed `property could be written in a method, and that method could be called **`changeSpeed`**.
 
-![](<../../.gitbook/assets/image (100).png>)
+![](<../../.gitbook/assets/image (100) (1).png>)
 
 #### PUTTING IT ALL TOGETHER
 

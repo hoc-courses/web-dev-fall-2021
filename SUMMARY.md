@@ -1,8 +1,16 @@
 # Table of contents
 
-* [Sleep Debt Calculator](README.md)
-* [Kelvin Weather](<README (1).md>)
-* [Whale Talk](whale-talk.md)
+* [JavaScript Projects](README.md)
+  * [Kelvin Weather](javascript-projects/master.md)
+  * [Whale Talk](javascript-projects/whale-talk.md)
+  * [Dog Years](javascript-projects/dog-years.md)
+  * [Race Day](javascript-projects/race-day.md)
+  * [Rock Paper Scissors](javascript-projects/rock-paper-scissors.md)
+  * [Secret Message](javascript-projects/secret-message.md)
+  * [Meal Maker](javascript-projects/meal-maker.md)
+  * [Training Days](javascript-projects/training-days.md)
+  * [Mini Linter](javascript-projects/mini-linter.md)
+  * [Conditionals Quiz](javascript-projects/conditionals-quiz.md)
 * [Past Assignments](past-assignments-1.md)
 
 ## Full Class Notes
