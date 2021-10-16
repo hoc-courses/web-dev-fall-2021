@@ -1,12 +1,9 @@
 # Table of contents
 
 * [JavaScript Projects](README.md)
-  * [Kelvin Weather](javascript-projects/master.md)
   * [Whale Talk](javascript-projects/whale-talk.md)
   * [Dog Years](javascript-projects/dog-years.md)
   * [Race Day](javascript-projects/race-day.md)
-  * [Rock Paper Scissors](javascript-projects/rock-paper-scissors.md)
-  * [Secret Message](javascript-projects/secret-message.md)
   * [Meal Maker](javascript-projects/meal-maker.md)
   * [Training Days](javascript-projects/training-days.md)
   * [Mini Linter](javascript-projects/mini-linter.md)
@@ -26,11 +23,11 @@
 * [Week 2: Saturday 10/9](full-class-notes/week-2-thursday-10-7.md)
 * [Week 3: Tuesday 10/11](full-class-notes/week-3-tuesday-10-11.md)
 * [Week 3: Thursday 10/13](full-class-notes/week-3-tuesday-10-11-1.md)
-* [Week 3: Saturday 10/15](full-class-notes/week-3-tuesday-10-11-1-1.md)
+* [Week 3: Saturday 10/16](full-class-notes/week-3-tuesday-10-11-1-1.md)
 * [JavaScript Intro/Setup](full-class-notes/javascript-intro-setup.md)
 * [JavaScript Fundamentals](full-class-notes/javascript-fundamentals.md)
 * [JavaScript Debugging](full-class-notes/javascript-debugging.md)
-* [Page 2](full-class-notes/page-2.md)
+* [JavaScript Challenges](full-class-notes/javascript-challenges.md)
 
 ***
 
