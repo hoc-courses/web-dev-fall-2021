@@ -51,9 +51,11 @@ Click on the following assignment link: [https://classroom.github.com/a/Ifm6Vn-C
 
 We're going to create a new site to use for the collaboration, using the typical way they are created, not as we have been through GitHub Classroom.
 
+Jesse has created the repo in his account and added everyone as collaborators so that we can all clone and push to the repo.
+
 Here's the link to the repo to use.
 
-{% embed url="https://github.com/hoc-labs/group-newssite-html-css." %}
+{% embed url="https://github.com/SJJCoding/Group-newssite" %}
 
 ### Step 1 - Setup the Repo for Collaboration
 
