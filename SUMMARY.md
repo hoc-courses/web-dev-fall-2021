@@ -6,7 +6,6 @@
   * [Race Day](javascript-projects/race-day.md)
   * [Meal Maker](javascript-projects/meal-maker.md)
   * [Training Days](javascript-projects/training-days.md)
-  * [Mini Linter](javascript-projects/mini-linter.md)
   * [Conditionals Quiz](javascript-projects/conditionals-quiz.md)
 * [Past Assignments](past-assignments-1.md)
 

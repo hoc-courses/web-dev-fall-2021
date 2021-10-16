@@ -9,3 +9,5 @@
 [Rock, Paper, Scissors](https://classroom.github.com/a/jdXmv0at)
 
 [Secret Message](https://classroom.github.com/a/kXFvdvth)
+
+[Mini Linter](https://classroom.github.com/a/2HAqvQX7)
