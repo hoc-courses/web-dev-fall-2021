@@ -37,11 +37,11 @@ Find the smallest number in a list of integers
 #### C
 
 ```clike
-int find_smallest_int(const int vec[], size_t len) {
-  int res = vec[0];
+int find_smallest_int(const int numbers[], size_t len) {
+  int res = numbers[0];
   for (size_t i = 1; i < len; i++)
-    if (vec[i] < res)
-      res = vec[i];
+    if (numbers[i] < res)
+      res = numbers[i];
   return res;
 }
 ```
