@@ -38,11 +38,24 @@ Find the smallest number in a list of integers
 
 ```clike
 int find_smallest_int(const int numbers[], size_t len) {
-  int res = numbers[0];
+  int min = numbers[0];
   for (size_t i = 1; i < len; i++)
     if (numbers[i] < res)
-      res = numbers[i];
-  return res;
+      min = numbers[i];
+  return min;
+}
+```
+
+#### JavaScript
+
+```javascript
+
+function findSmallestInteger(numbers) {
+  let min = numbers[0];
+  for(let i = 0; i< numbers.length; i++) {
+    min = min < numbers[i] ? min : number[i];
+  }
+  return min;
 }
 ```
 
@@ -65,14 +78,4 @@ func SmallestIntegerFinder(numbers []int) int {
     }
   }
   return min
-```
-
-#### JavaScript
-
-```javascript
-let min = numbers[0];
-for(let i = 0; i< numbers.length; i++) {
-  min = min < numbers[i] ? min : number[i];
-}
-return min;
 ```
