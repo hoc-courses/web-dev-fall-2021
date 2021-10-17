@@ -27,3 +27,52 @@ It also opened up the ability to build a full web application, including both th
 * [Adding JavaScript to an HTML file](https://shawnr.gitbooks.io/practical-introduction-to-javascript/content/basic-syntax/41-adding-javascript-to-an-html-file.html)
 * Running JavaScript from Node.js
 * [JavaScript Runtime](javascript/javascript-runtime-environment.md)
+
+### What is Programming?
+
+Solving Problems by manipulating data.
+
+Find the smallest number in a list of integers
+
+#### C
+
+```clike
+int find_smallest_int(const int vec[], size_t len) {
+  int res = vec[0];
+  for (size_t i = 1; i < len; i++)
+    if (vec[i] < res)
+      res = vec[i];
+  return res;
+}
+```
+
+#### Haskell
+
+```haskell
+findSmallestInteger :: [Int] -> Int
+findSmallestInteger [n] = n
+findSmallestInteger (n:ns) = min n (findSmallestInteger)
+```
+
+#### Go
+
+```go
+func SmallestIntegerFinder(numbers []int) int {
+  min := numbers[0]
+  for _, value := range numbers {
+    if value < min {
+      min = value
+    }
+  }
+  return min
+```
+
+#### JavaScript
+
+```javascript
+let min = numbers[0];
+for(let i = 0; i< numbers.length; i++) {
+  min = min < numbers[i] ? min : number[i];
+}
+return min;
+```
