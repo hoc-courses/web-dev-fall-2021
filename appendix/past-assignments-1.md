@@ -42,7 +42,4 @@
 
 **Grid - (Front-end Mentors) - testimonials grid** - [https://classroom.github.com/a/kvvOzqKx](https://classroom.github.com/a/kvvOzqKx)
 
-
-
-
-
+**Collaborative News Site** - [https://github.com/SJJCoding/Group-newssite](https://github.com/SJJCoding/Group-newssite)

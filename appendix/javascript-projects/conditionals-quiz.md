@@ -45,7 +45,7 @@ Log “Bear!” to console if `isFurry` is `true` and `weight` is over `100` pou
 // Some code
 ```
 
-![](<../.gitbook/assets/image (93).png>)
+![](<../../.gitbook/assets/image (93).png>)
 
 #### What will the code block log to the console?
 

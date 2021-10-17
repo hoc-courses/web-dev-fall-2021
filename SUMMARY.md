@@ -1,32 +1,10 @@
 # Table of contents
 
-* [JavaScript Projects](README.md)
-  * [Whale Talk](javascript-projects/whale-talk.md)
-  * [Dog Years](javascript-projects/dog-years.md)
-  * [Race Day](javascript-projects/race-day.md)
-  * [Meal Maker](javascript-projects/meal-maker.md)
-  * [Training Days](javascript-projects/training-days.md)
-  * [Conditionals Quiz](javascript-projects/conditionals-quiz.md)
-* [Past Assignments](past-assignments-1.md)
+## Class Notes
 
-## Full Class Notes
-
-* [Week 0: Thursday 9/23](full-class-notes/week-1-thursday-9-23.md)
-* [Week 0: Saturday 9/25](full-class-notes/week-0-saturday-9-25.md)
-* [Week 1: Tuesday 9/27](full-class-notes/week-1-tuesday-9-27.md)
-* [Week 1: Thursday 9/30](full-class-notes/week-1-thursday-9-30.md)
-* [Week 1: Friday 9/31](full-class-notes/week-1-friday-9-31.md)
-* [Week 1: Saturday 10/2](full-class-notes/week-1-saturday-10-2.md)
-* [Week 2: Tuesday 10/5](full-class-notes/week-2-tuesday-10-5-1.md)
-* [Week 2: Thursday 10/7](full-class-notes/week-2-tuesday-10-5.md)
-* [Week 2: Saturday 10/9](full-class-notes/week-2-thursday-10-7.md)
-* [Week 3: Tuesday 10/11](full-class-notes/week-3-tuesday-10-11.md)
-* [Week 3: Thursday 10/13](full-class-notes/week-3-tuesday-10-11-1.md)
-* [Week 3: Saturday 10/16](full-class-notes/week-3-tuesday-10-11-1-1.md)
-* [JavaScript Intro/Setup](full-class-notes/javascript-intro-setup.md)
-* [JavaScript Fundamentals](full-class-notes/javascript-fundamentals.md)
-* [JavaScript Debugging](full-class-notes/javascript-debugging.md)
-* [JavaScript Challenges](full-class-notes/javascript-challenges.md)
+* [JavaScript Intro/Setup](README.md)
+* [JavaScript Fundamentals](class-notes/javascript-fundamentals.md)
+* [JavaScript Challenges](class-notes/javascript-challenges.md)
 
 ***
 
@@ -107,9 +85,30 @@
   * [Week 4: Tuesday 9/14](intro-class-notes/week-4-tuesday-9-14.md)
   * [Week 4: Thursday 9/16](intro-class-notes/week-4-thursday-9-16.md)
   * [Week 4: Saturday 9/18](intro-class-notes/week-4-saturday-9-18.md)
+* [HTML/CSS Module Notes](html-css-module-notes/README.md)
+  * [Week 0: Thursday 9/23](html-css-module-notes/week-1-thursday-9-23.md)
+  * [Week 0: Saturday 9/25](html-css-module-notes/week-0-saturday-9-25.md)
+  * [Week 1: Tuesday 9/27](html-css-module-notes/week-1-tuesday-9-27.md)
+  * [Week 1: Thursday 9/30](html-css-module-notes/week-1-thursday-9-30.md)
+  * [Week 1: Friday 9/31](html-css-module-notes/week-1-friday-9-31.md)
+  * [Week 1: Saturday 10/2](html-css-module-notes/week-1-saturday-10-2.md)
+  * [Week 2: Tuesday 10/5](html-css-module-notes/week-2-tuesday-10-5-1.md)
+  * [Week 2: Thursday 10/7](html-css-module-notes/week-2-tuesday-10-5.md)
+  * [Week 2: Saturday 10/9](html-css-module-notes/week-2-thursday-10-7.md)
+  * [Week 3: Thursday 10/13](html-css-module-notes/week-3-tuesday-10-11.md)
+  * [Week 3: Saturday 10/16](html-css-module-notes/week-3-tuesday-10-11-1.md)
+  * [Week 3: Tuesday 10/11](html-css-module-notes/week-3-tuesday-10-11-2.md)
 
 ## Appendix
 
+* [Past Assignments](appendix/past-assignments-1.md)
+* [JavaScript Projects](appendix/javascript-projects/README.md)
+  * [Whale Talk](appendix/javascript-projects/whale-talk.md)
+  * [Dog Years](appendix/javascript-projects/dog-years.md)
+  * [Race Day](appendix/javascript-projects/race-day.md)
+  * [Meal Maker](appendix/javascript-projects/meal-maker.md)
+  * [Training Days](appendix/javascript-projects/training-days.md)
+  * [Conditionals Quiz](appendix/javascript-projects/conditionals-quiz.md)
 * [Software Installation](appendix/software-installation.md)
 * [Terminal/CLI](appendix/terminal-cli.md)
 * [VS Code Intro](appendix/vs-code-intro.md)
@@ -122,4 +121,3 @@
   * [Git ACP Commands - VS Code Integration](appendix/git-github/git-acp-commands-vs-code-integration.md)
   * [GitHub - Collaboration](appendix/git-github/github-collaboration.md)
   * [Mosh - Git](https://codewithmosh.com/courses/1120640/lectures/24393738)
-* [Page 1](appendix/page-1.md)

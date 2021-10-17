@@ -32,7 +32,7 @@ In the early days of JavaScript, the JavaScript Engine just read each instructio
 
 The image below depicts the JavaScript Runtime environment when code is run within a web browser. The web browser and the JavaScript Engine are two separate entities and the web browser relies on the JavaScript Engine to execute the JavaScript code.
 
-![](<../.gitbook/assets/image (99).png>)
+![](<../.gitbook/assets/image (99) (1).png>)
 
 As we learned earlier, JavaScript now can also run outside of a web browser. Specifically, it can run in the JavaScript Runtime environment provided by the Node.js application and is often used to build web servers.
 
