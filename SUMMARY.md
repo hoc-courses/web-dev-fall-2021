@@ -1,9 +1,11 @@
 # Table of contents
 
+* [Launch Code JS](https://education.launchcode.org/intro-to-professional-web-dev/index.html)
+
 ## Class Notes
 
-* [JavaScript Intro/Setup](README.md)
-* [JavaScript Fundamentals](class-notes/javascript-fundamentals.md)
+* [10/19 - JavaScript Intro/Setup](README.md)
+* [Data & Variables](class-notes/data-and-variables.md)
 * [JavaScript Challenges](class-notes/javascript-challenges.md)
 
 ***
@@ -120,4 +122,5 @@
   * [Working on GitHub Issues](appendix/git-github/working-on-github-issues.md)
   * [Git ACP Commands - VS Code Integration](appendix/git-github/git-acp-commands-vs-code-integration.md)
   * [GitHub - Collaboration](appendix/git-github/github-collaboration.md)
+  * [Forking](appendix/git-github/forking.md)
   * [Mosh - Git](https://codewithmosh.com/courses/1120640/lectures/24393738)

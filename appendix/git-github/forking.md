@@ -1,4 +1,6 @@
-# JavaScript Fundamentals
+# Forking
+
+One of the limitations of the GitHub Classroom model of getting assignments is that the assignment repos are all stored within a GitHub Classroom account, not your personal account. This means that you don't have a private copy of the repo to keep.
 
 ### Forking
 
@@ -17,24 +19,3 @@ The user that forked the repository can also fetch updates from the source repo 
 In some cases, like for our class, we just want to use the fork process to get a local copy of a repository so that we can work on it and push it to our local copy. In a class scenario, we can't all be collaborators and push our own solutions to the exercises to the same repo. 
 
 GitHub introduced a new feature in 2019, called [template repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template), which is similar to forking, but just creates a copy, without any of the history, or links to the original repo. That's what we'll be used for this assignment.
-
-Click on the following link to go to the repository for this assignment
-
-repository link: [https://github.com/hoc-labs/js-data-and-variables](https://github.com/hoc-labs/js-data-and-variables)
-
-Click on the **Use this template** button. This will create a copy of the repository in your own GitHub account.
-
-Clone the repo from your account as you normally do and load the VS Code project.
-
-
-
-
-
-
-
-
-
-
-
-
-
