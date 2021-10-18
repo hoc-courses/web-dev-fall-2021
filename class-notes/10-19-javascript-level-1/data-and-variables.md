@@ -10,7 +10,7 @@
 
 #### JS Fundamentals Study Project - [https://github.com/hoc-labs/js-fundamentals-study](https://github.com/hoc-labs/js-fundamentals-study)
 
-* This project we will [fork](../appendix/git-github/forking.md). This will allow you to get updates from the source repo if needed and keep a copy for private use in your own account.
+* This project we will [fork](../../appendix/git-github/forking.md). This will allow you to get updates from the source repo if needed and keep a copy for private use in your own account.
 * See the **STUDY.md** file for instructions
 
 [Codexpanse - Expressions vs. Statements](https://www.youtube.com/watch?v=WVyCrI1cHi8)

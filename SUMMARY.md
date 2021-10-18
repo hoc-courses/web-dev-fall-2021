@@ -4,8 +4,9 @@
 
 ## Class Notes
 
-* [10/19 - JavaScript Intro/Setup](README.md)
-* [Data & Variables](class-notes/data-and-variables.md)
+* [10/19 - JavaScript Level 1](README.md)
+  * [JavaScript Intro](class-notes/10-19-javascript-level-1/javascript-intro.md)
+  * [Data & Variables](class-notes/10-19-javascript-level-1/data-and-variables.md)
 * [JavaScript Challenges](class-notes/javascript-challenges.md)
 
 ***
