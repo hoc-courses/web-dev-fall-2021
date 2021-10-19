@@ -15,7 +15,15 @@
 
 [Codexpanse - Expressions vs. Statements](https://www.youtube.com/watch?v=WVyCrI1cHi8)
 
-[Codexpanse - Strings](https://www.youtube.com/watch?v=8QZ8Ogc3lAs\&list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI\&index=10) (0-2:40), the rest if more advanced, but you can watch and try to follow it
+[Codexpanse - Strings](https://www.youtube.com/watch?v=8QZ8Ogc3lAs\&list=PL-xu4i\_QDSxcoDNeh8rx5-pHCCTOg0XsI\&index=10) (0-2:40), the rest if more advanced, but you can watch and try to follow it
+
+
+
+### Practice&#x20;
+
+* [Compute-it](https://compute-it.toxicode.fr)
+* [Launch Code - Data & Variables Studio](https://classroom.github.com/a/LjKTwdOT)
+* [Kelvin Weather Converter](https://classroom.github.com/a/zJ-mvv\_o)
 
 
 
