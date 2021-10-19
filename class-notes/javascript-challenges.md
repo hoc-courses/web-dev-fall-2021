@@ -3,9 +3,10 @@
 ### Level 1
 
 * [Compute-it](https://compute-it.toxicode.fr)
+* [Little-dot](http://little-dot.toxicode.fr)
 * [Launch Code - Candidate Test](https://classroom.github.com/a/X334CqRx)
 * [Launch Code - Data & Variables Studio](https://classroom.github.com/a/LjKTwdOT)
-* [Kelvin Weather Converter](https://classroom.github.com/a/zJ-mvv_o)
+* [Kelvin Weather Converter](https://classroom.github.com/a/zJ-mvv\_o)
 * [Code Wars Katas - CYF - JavaScript 1](https://www.codewars.com/collections/cyf-js-1-week-1)
 * [js-algorithms-level-1](https://classroom.github.com/a/Vh9ZER3R)
 

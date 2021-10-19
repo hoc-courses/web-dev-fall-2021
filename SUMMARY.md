@@ -1,10 +1,18 @@
 # Table of contents
 
-* [Launch Code JS](https://education.launchcode.org/intro-to-professional-web-dev/index.html)
+* [JS Reference](README.md)
+  * [javascript.info](https://javascript.info/first-steps)
+  * [Codeacademy JS Cheat Sheet](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet)
+  * [MDN - JS](https://developer.mozilla.org/en-US/docs/Web/javascript)
+  * [HYF - JS Study](https://hackyourfuture.github.io/study/#/javascript/README)
+* [JS Tutorials](js-tutorials/README.md)
+  * [Launch Code JS](https://education.launchcode.org/intro-to-professional-web-dev/index.html)
+  * [Mosh - JS](https://codewithmosh.com/courses/enrolled/324741)
+  * [Programiz - JS](https://www.programiz.com/javascript/get-started)
 
 ## Class Notes
 
-* [10/19 - JavaScript Level 1](README.md)
+* [10/19 - JavaScript Level 1](<README (1).md>)
   * [JavaScript Intro](class-notes/10-19-javascript-level-1/javascript-intro.md)
   * [Data & Variables](class-notes/10-19-javascript-level-1/data-and-variables.md)
 * [JavaScript Challenges](class-notes/javascript-challenges.md)
