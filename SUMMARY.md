@@ -16,7 +16,7 @@
 * [10/19 - JavaScript Level 1](<README (1).md>)
   * [JavaScript Intro](class-notes/10-19-javascript-level-1/javascript-intro.md)
   * [Data & Variables](class-notes/10-19-javascript-level-1/data-and-variables.md)
-* [10/20 - JavaScript Level 1](class-notes/10-20-javascript-level-1.md)
+* [10/21 - JavaScript Level 1](class-notes/10-21-javascript-level-1.md)
 * [JavaScript Challenges](class-notes/javascript-challenges.md)
 
 ***
