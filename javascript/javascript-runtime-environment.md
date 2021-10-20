@@ -2,7 +2,7 @@
 
 
 
-While there is a single **specification **for the rules of a language, such as the supported data types and syntax, there are different **implementations **for how the code goes from the text you write in the code editor, to the machine instructions executing on a target computer. 
+While there is a single **specification **for the rules of a language, such as the supported data types and syntax, there are different **implementations **for how the code goes from the text you write in the code editor, to the machine instructions executing on a target computer.&#x20;
 
 JavaScript is a somewhat unique in its implementation: how/when the JavaScript code is prepared for execution. Because JavaScript was designed specifically to run within a web browser, and the goal was to treat a JavaScript file similarly to other files included in a web page (images, fonts, stylesheets), the JavaScript code remains as text all the way to the time when the web browser reads it as it is loading the web page.
 
@@ -10,7 +10,7 @@ This means that there needs to be a component within the web browser that reads 
 
 The JavaScript Engine is a separate entity from the web browser. The web browser delegates responsibility for executing JavaScript code to the JavaScript Engine.
 
-Each web browser decides which JavaScript Engine to rely on for executing JavaScript code. In the Chrome browser, the JavaScript Engine is called V8, and is developed by Google. 
+Each web browser decides which JavaScript Engine to rely on for executing JavaScript code. In the Chrome browser, the JavaScript Engine is called V8, and is developed by Google.&#x20;
 
 ### Source Code to Machine Instructions
 
@@ -18,13 +18,13 @@ To understand why the JavaScript Engine is required to execute the JavaScript co
 
 Programming language implementations fall into a three broad categories depicted below.
 
-![](<../.gitbook/assets/image (90).png>)
+![](<../.gitbook/assets/image (90) (1).png>)
 
 **Fully Compiled to Machine Code** - Lower-level languages like C/C++ are compiled to machine instructions prior to running on the target computer. The compiled code is only compatible with the matching computer architecture that understands the machine instruction set. Therefore, it is necessary to perform separate compilations for each target computer architecture.  Software applications, such as your web browser, fall into this category. When you go to the site to download the browser, you are asked to select the correct version to download based on the computer architecture it will run on. While program in this category have better performance, they are harder to produce, due to the added complexity of building/compiling for all the different computer architectures.
 
-**Partially Compiled to Byte Code** - There is a set of languages (Java/C# are two examples) that are compiled into an intermediate form that is a machine-independent set of instructions. The advantage of this approach is that the machine-independent instructions can run on any target machine, but it requires a special machine-dependent application (called a virtual machine) to be running on the target computer to load the program and then further compile the machine-independent instructions into machine-dependent instructions. 
+**Partially Compiled to Byte Code** - There is a set of languages (Java/C# are two examples) that are compiled into an intermediate form that is a machine-independent set of instructions. The advantage of this approach is that the machine-independent instructions can run on any target machine, but it requires a special machine-dependent application (called a virtual machine) to be running on the target computer to load the program and then further compile the machine-independent instructions into machine-dependent instructions.&#x20;
 
-**Compilation is Deferred Until Code Execution **- This is the case for the JavaScript language. When a web page includes JavaScript code, either as a URL to an external file, or embedded within the`<script>`element , the web browser takes that JavaScript code (which is text) and passes it to the JavaScript Engine to interpret and execute the instructions in the code. 
+**Compilation is Deferred Until Code Execution **- This is the case for the JavaScript language. When a web page includes JavaScript code, either as a URL to an external file, or embedded within the`<script>`element , the web browser takes that JavaScript code (which is text) and passes it to the JavaScript Engine to interpret and execute the instructions in the code.&#x20;
 
 In the early days of JavaScript, the JavaScript Engine just read each instruction, line by line, and interpreted each instruction and executed it  within its own application code. Now, the JavaScript Engine is very sophisticated and after initially reading and executing the JavaScript source code, it is able to optimize the code and compile it into machine instructions.
 

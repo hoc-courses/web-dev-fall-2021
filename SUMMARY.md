@@ -9,12 +9,14 @@
   * [Launch Code JS](https://education.launchcode.org/intro-to-professional-web-dev/index.html)
   * [Mosh - JS](https://codewithmosh.com/courses/enrolled/324741)
   * [Programiz - JS](https://www.programiz.com/javascript/get-started)
+  * [Hack Reactor JS Series](js-tutorials/hack-reactor-js-series.md)
 
 ## Class Notes
 
 * [10/19 - JavaScript Level 1](<README (1).md>)
   * [JavaScript Intro](class-notes/10-19-javascript-level-1/javascript-intro.md)
   * [Data & Variables](class-notes/10-19-javascript-level-1/data-and-variables.md)
+* [10/20 - JavaScript Level 1](class-notes/10-20-javascript-level-1.md)
 * [JavaScript Challenges](class-notes/javascript-challenges.md)
 
 ***
