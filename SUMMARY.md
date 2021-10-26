@@ -18,6 +18,7 @@
   * [Data & Variables](class-notes/10-19-javascript-level-1/data-and-variables.md)
 * [10/21 - JavaScript Level 1](class-notes/10-21-javascript-level-1.md)
 * [10/23 - JavaScript Level 1](class-notes/10-23-javascript-level-1.md)
+* [10/26 - JavaScript Level 1](class-notes/10-26-javascript-level-1.md)
 * [JavaScript Challenges](class-notes/javascript-challenges.md)
 
 ***
