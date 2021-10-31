@@ -1,0 +1,70 @@
+# 11/2 - JavaScript Level 1
+
+### Looping Basics
+
+#### for of&#x20;
+
+This should really be your default choice. Use for or while if you need the index.
+
+```javascript
+const numbers = [1,2,3,4,5];
+
+let total = 0;
+for (let next of numbers) {
+    total+=next;
+}
+console.log("total", total);
+```
+
+#### for&#x20;
+
+```javascript
+const numbers = [1,2,3,4,5];
+
+let total = 0;
+for (let i=0; i<numbers.length; ++i) {
+    total+=numbers[i];
+}
+console.log("total", total);
+```
+
+#### while&#x20;
+
+A while loop wouldn't be the best choice for looping through an array like this. It is better for problems such as looping until a condition is met that you don't know ahead of time. For example, until the user stops entering a response. It is also useful when you need to move through the array from both directions simultaneously, such as if you wanted to reverse the elements in the array. You would have an index set to the start and the end, and increment them both as you moved each toward the middle, swapping the elements at the start and end indices on each iteration.
+
+```javascript
+const numbers = [1,2,3,4,5];
+
+let total = 0;
+while (i<numbers.length) {
+    total+=numbers[i];
+    i++; // i=i+1;
+}
+console.log("total", total);
+```
+
+
+
+### Looping Advanced
+
+#### Array.forEach (useful for anonymous function syntax)
+
+```
+const numbers = [1,2,3,4,5];
+
+let total = 0;
+numbers.forEach(function(next) {
+    total+=next;
+    }
+);
+
+console.log("total", total);
+```
+
+```
+const numbers = [1,2,3,4,5];
+    
+let total = 0;
+numbers.forEach( (x) => total+=x );
+console.log("total", total);
+```

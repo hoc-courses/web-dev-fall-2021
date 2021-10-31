@@ -21,6 +21,7 @@
 * [10/26 - JavaScript Level 1](class-notes/10-26-javascript-level-1.md)
 * [10/28 - JavaScript Level 1](class-notes/10-28-javascript-level-1.md)
 * [10/30 - JavaScript Level 1](class-notes/10-30-javascript-level-1.md)
+* [11/2 - JavaScript Level 1](class-notes/11-2-javascript-level-1.md)
 * [JavaScript Challenges](class-notes/javascript-challenges.md)
 
 ***
