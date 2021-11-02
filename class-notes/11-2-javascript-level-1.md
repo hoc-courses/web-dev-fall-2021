@@ -1,6 +1,6 @@
 # 11/2 - JavaScript Level 1
 
-### Looping Basics
+### Review of Looping Basics
 
 #### for of&#x20;
 
@@ -43,28 +43,10 @@ while (i<numbers.length) {
 console.log("total", total);
 ```
 
+### Continue with JavaScript Workshop - Arrays Exercises
 
+{% embed url="https://github.com/hackreactor/javascript_301/tree/master/3-array-iteration" %}
 
-### Looping Advanced
+### Practice with arrays
 
-#### Array.forEach (useful for anonymous function syntax)
-
-```
-const numbers = [1,2,3,4,5];
-
-let total = 0;
-numbers.forEach(function(next) {
-    total+=next;
-    }
-);
-
-console.log("total", total);
-```
-
-```
-const numbers = [1,2,3,4,5];
-    
-let total = 0;
-numbers.forEach( (x) => total+=x );
-console.log("total", total);
-```
+**Assignment: js-lc-candidate-test**: [https://classroom.github.com/a/X334CqRx](https://classroom.github.com/a/X334CqRx)
