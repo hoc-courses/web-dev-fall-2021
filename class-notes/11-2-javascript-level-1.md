@@ -49,4 +49,12 @@ console.log("total", total);
 
 ### Practice with arrays
 
-**Assignment: js-lc-candidate-test**: [https://classroom.github.com/a/X334CqRx](https://classroom.github.com/a/X334CqRx)
+```
+let array = [-2, -1, 0, 5, 2, 4, 4, 5, 6];
+// modify the array such that it equals
+// console.log(array); => [0, 1, 2, 3, 4, 5]
+```
+
+**Mini-linter**: [https://classroom.github.com/a/c5VGfUCl](https://classroom.github.com/a/c5VGfUCl)
+
+**js-lc-candidate-test**: [https://classroom.github.com/a/X334CqRx](https://classroom.github.com/a/X334CqRx)
