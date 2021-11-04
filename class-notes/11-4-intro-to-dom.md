@@ -8,9 +8,9 @@
 
 #### Mid
 
-{% embed url="https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1" %}
-
 {% embed url="https://www.codewars.com/kata/52af1f150fcae8d33d0009bc" %}
+
+{% embed url="https://www.codewars.com/kata/5301329926d12b90cc000908" %}
 
 #### Harder
 
