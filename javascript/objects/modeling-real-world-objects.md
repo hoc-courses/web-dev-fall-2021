@@ -8,7 +8,7 @@ _Excerpt from Jon Duckett's JavaScript & jQuery_
 
 Here is a model of a hotel, along with some model trees, model people, and model cars. To a human, it is clear what kind of real-world object each one represents.
 
-![](<../../.gitbook/assets/image (94).png>)
+![](<../../.gitbook/assets/image (94) (1).png>)
 
 A computer has no predefined concept of what a hotel or car is. It does not know what they are used for. Your laptop or phone will not have a favorite brand of car, nor will it know what star rating your hotel is.
 
@@ -85,7 +85,7 @@ A hotel will regularly have bookings for rooms. Each time a room is reserved, an
 
 A driver will accelerate and brake throughout any car journey. An **accelerate event** can trigger code to increase the value of the `currentSpeed `property and a **brake event** can trigger code to decrease it. You will learn about the code that responds to the events and changes these properties on the next page.
 
-![](<../../.gitbook/assets/image (96).png>)
+![](<../../.gitbook/assets/image (96) (1).png>)
 
 #### METHODS
 
@@ -114,7 +114,7 @@ Hotels will commonly be asked if any rooms are free. To answer this question, a 
 
 The value of the `currentSpeed `property needs to go up and down as the driver accelerates and brakes. The code to increase or decrease the value of the `currentSpeed `property could be written in a method, and that method could be called **`changeSpeed`**.
 
-![](<../../.gitbook/assets/image (100) (1) (1).png>)
+![](<../../.gitbook/assets/image (100) (1) (1) (1).png>)
 
 #### PUTTING IT ALL TOGETHER
 
@@ -211,7 +211,7 @@ The model shown below is a representation of one very basic page. Its structure 
 
 Beneath the **document** object each box is called a **node**. Each of these nodes is another object. This example features three types of nodes representing elements, text within the elements, and attribute.
 
-![](<../../.gitbook/assets/image (91).png>)
+![](<../../.gitbook/assets/image (91) (1).png>)
 
 **3: USE A RENDERING ENGINE TO SHOW THE PAGE ON SCREEN**
 
@@ -233,7 +233,7 @@ In an **interpreted programming language**, like JavaScript, each line of code i
 
 *   Computers create models of the world using data.
 
-    The models use objects to represent physical things. Objects can have: 
+    The models use objects to represent physical things. Objects can have:&#x20;
 
     * **properties **that tell us about the object
     * **methods **that perform tasks using the properties of that object

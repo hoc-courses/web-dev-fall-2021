@@ -20,9 +20,7 @@
 
 {% embed url="https://www.codewars.com/users/CodeYourFuture/authored_collections" %}
 
-#### Beginner
 
-**js-passenger-counter**: [https://github.com/hoc-labs/js-passenger-counter](https://github.com/hoc-labs/js-passenger-counter)
 
 #### Advanced
 
