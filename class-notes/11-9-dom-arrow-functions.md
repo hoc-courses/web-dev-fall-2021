@@ -1,4 +1,4 @@
-# 11/6 - DOM, arrow functions
+# 11/9 - DOM, arrow functions
 
 ### Anonymous Methods
 
@@ -403,7 +403,7 @@ The goal of this exercise is to learn to create event handlers and dynamically u
 
 The expected behavior is when the user clicks on one of the buttons at the top of the page, new HTML content will be updated in the main area to show information about the type of animal selected.
 
-![](<../.gitbook/assets/image (94).png>)
+![](<../.gitbook/assets/image (94) (1).png>)
 
 #### Data
 

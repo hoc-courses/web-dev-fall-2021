@@ -12,7 +12,7 @@ Historically, before the div element and grid/flex were introduced, web develope
 
 Here's an example of a table for our zoo exercise. It has four columns, and a row for each type of animal.
 
-![](<../.gitbook/assets/image (101).png>)
+![](<../.gitbook/assets/image (101) (1).png>)
 
 #### Table element
 
@@ -171,7 +171,7 @@ function getHTMLForSummaryTable() {
 }
 ```
 
-![](<../.gitbook/assets/image (102).png>)
+![](<../.gitbook/assets/image (102) (1).png>)
 
 Last, we'll build the HTML content for the last column. It's a bit more complicated, because we want to build up a list of the animals (name, age, sex).
 

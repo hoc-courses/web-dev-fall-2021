@@ -8,7 +8,7 @@ _Excerpt from Jon Duckett's JavaScript & jQuery_
 
 Here is a model of a hotel, along with some model trees, model people, and model cars. To a human, it is clear what kind of real-world object each one represents.
 
-![](<../../.gitbook/assets/image (94) (1).png>)
+![](<../../.gitbook/assets/image (94) (1) (1).png>)
 
 A computer has no predefined concept of what a hotel or car is. It does not know what they are used for. Your laptop or phone will not have a favorite brand of car, nor will it know what star rating your hotel is.
 
@@ -52,7 +52,7 @@ The hotel object uses property names and values to tell you about this particula
 
 The car objects both share the same properties, but each one has different values for those properties. They tell you the make of car, what speed each car is currently traveling at, what color it is, and what type of fuel it requires.
 
-![](<../../.gitbook/assets/image (104).png>)
+![](<../../.gitbook/assets/image (104) (1).png>)
 
 #### EVENTS
 
@@ -120,7 +120,7 @@ The value of the `currentSpeed `property needs to go up and down as the driver a
 
 Computers use data to create models of things in the real world. The events, methods, and properties of an object all relate to each other: Events can trigger methods, and methods can retrieve or update an object's properties.
 
-![](<../../.gitbook/assets/image (103).png>)
+![](<../../.gitbook/assets/image (103) (1).png>)
 
 **HOTEL OBJECT**
 
@@ -219,7 +219,7 @@ If there is no CSS, the rendering engine will apply default styles to HTML eleme
 
 When the browser receives CSS rules, the rendering engine processes them and applies each rule to its corresponding elements. This is how the browser positions the elements in the correct place, with the right colors, fonts, and so on.
 
-![](<../../.gitbook/assets/image (102) (1).png>)
+![](<../../.gitbook/assets/image (102) (1) (1).png>)
 
 **4: USE JAVASCRIPT TO INTERACT WITH THE IN-MEMORY PAGE MODEL**
 

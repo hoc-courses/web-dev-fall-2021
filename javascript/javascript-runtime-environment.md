@@ -40,4 +40,4 @@ It is interesting to compare these two environments. In most ways they are very 
 
 But there are some difference, specifically the libraries of built-in objects that the environment provides. Within a web browser, the libraries include objects for accessing the browser window, and it's associated objects (document, history, location, console). Within Node.js, these objects are not included, because Node.js is not a web browser and those objects do not apply to JavaScript code running within Node.js. But there are additional built-in objects that are relevant to the Node.js environment, such as objects for loading files, which is not something that is supported within the browser environment.
 
-![](<../.gitbook/assets/image (101) (1) (1).png>)
+![](<../.gitbook/assets/image (101) (1) (1) (1).png>)
