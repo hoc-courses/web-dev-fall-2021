@@ -219,7 +219,7 @@ If there is no CSS, the rendering engine will apply default styles to HTML eleme
 
 When the browser receives CSS rules, the rendering engine processes them and applies each rule to its corresponding elements. This is how the browser positions the elements in the correct place, with the right colors, fonts, and so on.
 
-![](<../../.gitbook/assets/image (102).png>)
+![](<../../.gitbook/assets/image (102) (1).png>)
 
 **4: USE JAVASCRIPT TO INTERACT WITH THE IN-MEMORY PAGE MODEL**
 

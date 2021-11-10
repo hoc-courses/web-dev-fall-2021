@@ -24,6 +24,7 @@
 * [11/2 - JavaScript Level 1](class-notes/11-2-javascript-level-1.md)
 * [11/4 - Intro to DOM](class-notes/11-4-intro-to-dom.md)
 * [11/9 - DOM, arrow functions](class-notes/11-9-dom-arrow-functions.md)
+* [11/11 - Tables](class-notes/11-11-tables.md)
 * [JavaScript Challenges](class-notes/javascript-challenges.md)
 
 ***
