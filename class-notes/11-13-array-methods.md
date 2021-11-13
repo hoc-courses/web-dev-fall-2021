@@ -1,4 +1,8 @@
-# 11/11 - Tables
+# 11/13 - Array Methods
+
+### Practice with Array methods
+
+[https://github.com/hoc-labs/hoc-practice](https://github.com/hoc-labs/hoc-practice)
 
 ### Tables
 
