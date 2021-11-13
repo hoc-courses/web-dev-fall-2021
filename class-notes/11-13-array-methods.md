@@ -2,7 +2,11 @@
 
 ### Practice with Array methods
 
-[https://github.com/hoc-labs/hoc-practice](https://github.com/hoc-labs/hoc-practice)
+{% embed url="https://github.com/hoc-labs/hoc-practice" %}
+
+#### Using Article Data to redo the news site:
+
+{% embed url="https://github.com/SJJCoding/Group-newssite" %}
 
 ### Tables
 
