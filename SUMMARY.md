@@ -25,6 +25,7 @@
 * [11/4 - Intro to DOM](class-notes/11-4-intro-to-dom.md)
 * [11/9 - DOM, arrow functions](class-notes/11-9-dom-arrow-functions.md)
 * [11/13 - Array Methods](class-notes/11-13-array-methods.md)
+* [11/16 - DOM](class-notes/11-16-dom.md)
 * [UI Style Frameworks](class-notes/ui-style-frameworks.md)
 * [JavaScript Challenges](class-notes/javascript-challenges.md)
 
