@@ -29,6 +29,7 @@
 * [11/18 - More Array Functions](class-notes/11-18-more-array-functions.md)
 * [11/20 - More JS Practice](class-notes/11-20-more-js-practice.md)
 * [11/23 - More JS Practice](class-notes/11-23-more-js-practice.md)
+* [11/30 - More JS Practice](class-notes/11-30-more-js-practice.md)
 * [UI Style Frameworks](class-notes/ui-style-frameworks.md)
 * [JavaScript Challenges](class-notes/javascript-challenges.md)
 
